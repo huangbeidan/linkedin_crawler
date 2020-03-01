@@ -1,0 +1,7 @@
+{
+    "num_profiles" : 100,
+    "keywords" : ["Navy Cyber Defense Operations Command", "US Navy",
+      "US Navy Reserve", "US Naval Research Laboratory",
+      "Naval Air Systems Command", "Naval Nuclear Laboratory"],
+    "output_file" : "linkedin_profiles.json"
+}
